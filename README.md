@@ -1,4 +1,4 @@
-# cgominer-for-USBMiner
+# cgminer-for-USBMiner
 
 =================
 
